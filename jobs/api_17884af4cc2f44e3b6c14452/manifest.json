@@ -1,0 +1,32 @@
+{
+  "job_id": "api_17884af4cc2f44e3b6c14452",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/9p0cCRTmtag04bcJKmyYrw/Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 315935325,
+  "created_at_utc": "2026-05-23T00:33:26.713540+00:00",
+  "zip_folder": "jobs/api_17884af4cc2f44e3b6c14452/zip",
+  "zip_main_file": "Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_17884af4cc2f44e3b6c14452/zip/Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_17884af4cc2f44e3b6c14452/zip/Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_17884af4cc2f44e3b6c14452/zip/Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_17884af4cc2f44e3b6c14452/zip/Half.Man.S01E05.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 32820075
+    }
+  ]
+}
